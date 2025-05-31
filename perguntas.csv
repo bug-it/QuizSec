@@ -1,0 +1,80 @@
+pergunta,a,b,c,d,correta
+O que é um plano de continuidade de negócios?,Plano para expansão de TI,Estratégia para retomar operações após interrupções,Cronograma de manutenção de servidores,Política de atualização de software,B
+Como a ISO/IEC 27001 trata dados sensíveis?,Ignorando-os,Classificando e protegendo adequadamente,Armazenando-os em servidores externos,Tornando-os públicos com segurança,B
+Qual é um exemplo de controle organizacional?,Implementação de firewall,Treinamento em segurança,Criptografia de dados,Backup remoto,B
+O que é um indicador-chave de desempenho (KPI) no SGSI?,Uma métrica para avaliar a eficácia do SGSI,Lista de vulnerabilidades críticas,Requisitos financeiros para conformidade,Planilha de inventário de TI,A
+Quem deve aprovar a política de segurança da informação?,Gerente de TI,Alta direção,Equipe de segurança,Auditor externo,B
+O que significa a sigla GDPR relacionada à segurança da informação?,Global Data Protection Regulation,General Data Protection Regulation,Government Data Privacy Rules,General Data Policy Reform,B
+Qual é um benefício da análise de risco?,Reduzir custos de hardware,Melhorar a capacidade de resposta a incidentes,Aumentar a complexidade do SGSI,Eliminar a necessidade de auditorias,B
+Qual é a importância do inventário de ativos na ISO/IEC 27001?,Garantir backups regulares,Identificar e proteger ativos críticos,Simplificar auditorias externas,Reduzir custos de operação,B
+Qual é o primeiro passo para implementar a ISO/IEC 27001?,Comprar software de segurança,Definir o escopo do SGSI,Contratar auditor externo,Treinar a equipe técnica,B
+Por que a ISO/IEC 27001 recomenda a análise de vulnerabilidades?,Para monitorar falhas humanas,Para prevenir acessos não autorizados,Para identificar fraquezas de segurança,Para simplificar o SGSI,C
+Qual é a função de uma política de backup?,Eliminar a necessidade de recuperação de dados,Garantir a recuperação de informações críticas,Evitar falhas de energia,Reduzir custos de armazenamento,B
+Como a ISO/IEC 27001 trata a gestão de fornecedores?,Ignorando os fornecedores,Exigindo avaliação e controle de riscos,Tornando-os responsáveis pela segurança,Limitando a interação com o SGSI,B
+Qual é o principal objetivo de uma auditoria interna?,Punir responsáveis,Avaliar a eficácia do SGSI,Identificar ativos desnecessários,Reduzir custos operacionais,B
+Qual é a diferença entre uma auditoria interna e externa?,Interna é informal - externa é obrigatória,Interna é feita pela organização - externa por terceiros,Externa é mais barata que interna,Não há diferenças relevantes,B
+Qual é o papel da liderança no SGSI?,Delegar responsabilidades apenas,Garantir recursos e comprometimento com a segurança,Focar em políticas externas,Desconsiderar ameaças internas,B
+O que é uma vulnerabilidade no contexto da ISO/IEC 27001?,Falha que pode ser explorada por uma ameaça,Ameaça externa identificada,Backup não realizado,Documento desatualizado,A
+Qual é um exemplo de risco residual?,Dados não criptografados,Ameaça eliminada completamente,Risco aceito após análise e mitigação,Backup falho,C
+Qual é a importância da documentação no SGSI?,Eliminá-la para simplificar processos,Evidenciar a conformidade com a norma,Usá-la apenas em auditorias externas,Evitar revisões periódicas,B
+Como a ISO/IEC 27001 trata informações críticas?,Tornando-as públicas com segurança,Implementando controles apropriados para protegê-las,Armazenando-as em servidores externos,Garantindo acessos irrestritos,B
+Qual é o papel do responsável pela segurança da informação?,Treinar usuários finais,Supervisionar o cumprimento do SGSI,Garantir que todos os controles sejam técnicos,Evitar interações com fornecedores,B
+Como devem ser tratados os dados confidenciais?,Armazenados em nuvem pública,Acessados apenas por pessoas autorizadas,Tornados públicos com criptografia,Divulgados para auditorias,B
+Quais são as etapas do ciclo PDCA?,Planejar - Fazer - Verificar - Agir,Delegar - Planejar - Fazer - Agir,Planejar - Realizar - Delegar - Verificar,Ajustar - Realizar - Agir - Planejar,A
+Qual é um exemplo de melhoria contínua no SGSI?,Adição de controles de segurança com base em avaliações regulares,Eliminação de controles redundantes sem análise,Mudança apenas após incidentes,Foco exclusivo em tecnologia,A
+Como devem ser classificadas as informações?,Com base em risco e requisitos de segurança,Todas como públicas,Apenas como confidenciais,Somente se forem digitais,A
+Qual é a abordagem recomendada para lidar com ameaças?,Ignorar as menos prováveis,Eliminar todas as vulnerabilidades,Implementar controles para mitigar riscos,Transferir riscos para fornecedores,C
+Quais informações devem ser documentadas no SGSI?,Apenas senhas e backups,Todos os aspectos relevantes do SGSI,Somente dados críticos,Nada deve ser documentado,B
+Qual é a principal função de uma política de acesso?,Restringir completamente o acesso,Definir e gerenciar permissões,Evitar auditorias externas,Eliminar necessidade de autenticação,B
+O que a ISO/IEC 27001 diz sobre a resposta a incidentes?,Ignorar incidentes menores,Estabelecer procedimentos claros de resposta,Depender de ferramentas externas,Tratar apenas ameaças externas,B
+Qual é um exemplo de controle técnico?,Treinamento de equipe,Criptografia de dados,Política de segurança,Inventário de ativos,B
+Como a ISO/IEC 27001 aborda a segurança física?,Ignorando ameaças físicas,Implementando barreiras de acesso físico,Focando apenas em segurança lógica,Delegando responsabilidades a terceiros,B
+Qual é o objetivo de um plano de recuperação de desastres?,Garantir continuidade do negócio após falhas,Evitar falhas de sistemas,Eliminar ameaças externas,Simplificar operações,A
+Por que a liderança é importante no SGSI?,Para supervisionar backups,Para garantir recursos e apoio,Para realizar auditorias externas,Para evitar auditorias internas,B
+O que deve ser considerado na análise de risco?,Somente ameaças internas,Combinação de ameaças, vulnerabilidades e impacto,Apenas falhas técnicas,B
+Como a ISO/IEC 27001 trata o uso de dispositivos móveis?,Ignorando-os completamente,Exigindo políticas claras de uso e segurança,Garantindo acesso irrestrito,Recomendando o bloqueio de dispositivos pessoais,B
+Qual é um exemplo de evidência de conformidade com a norma?,Inventário de TI atualizado,Política de backups implementada,Ambos,Nenhum,C
+O que significa integridade de dados?,Acesso irrestrito,Garantia de que os dados não foram alterados indevidamente,Disponibilidade de dados em qualquer lugar,Criptografia obrigatória,B
+Qual é a importância do treinamento em segurança da informação?,Reduzir custos operacionais,Aumentar a conscientização e reduzir riscos,Eliminar a necessidade de auditorias,Focar em controles externos,B
+Como a ISO/IEC 27001 define ativos?,Apenas equipamentos de TI,Todos os recursos que suportam operações de negócios,Somente dados críticos,Apenas documentos digitais,B
+O que deve ser feito ao identificar um incidente de segurança?,Ignorar se for pequeno,Seguir os procedimentos definidos no SGSI,Solicitar uma auditoria imediata,Interromper todas as operações,B
+Como as organizações demonstram conformidade com a ISO/IEC 27001?,Somente auditorias externas,Implementando controles e documentando evidências,Eliminando vulnerabilidades críticas,Usando softwares homologados pela ISO,B
+Quais são os requisitos básicos da cláusula 4 da ISO/IEC 27001?,Contexto da organização e partes interessadas,Política de backup e inventário de TI,Treinamento e conscientização,Eliminação de riscos físicos,A
+O que é gerenciamento de vulnerabilidades?,Backup automático de dados,Identificação e correção de falhas de segurança,Monitoramento de ameaças externas,Exclusão de arquivos antigos,B
+Qual é o foco principal do Anexo A da ISO/IEC 27001?,Auditorias,Controles de segurança,Políticas de backup,Revisão de vulnerabilidades,B
+O que é um ativo de informação?,Um servidor,Um documento,Um notebook,Todos os anteriores,D
+Como a ISO/IEC 27001 trata a comunicação interna?,Não a menciona,Exige que seja clara e consistente com o SGSI,Depende de fornecedores externos,Somente através de reuniões,B
+Qual é o impacto de não identificar riscos corretamente?,Aumentar a conformidade,Expor a organização a vulnerabilidades críticas,Garantir maior segurança,Simplificar operações,B
+O que significa segurança da informação?,Prevenir acessos internos,Garantir confidencialidade, integridade e disponibilidade,Simplificar os processos de TI,B
+Como devem ser tratados incidentes recorrentes?,Ignorados se forem pequenos,Analisados para melhoria contínua,Atribuídos a falhas externas,Monitorados apenas em auditorias,B
+Qual é um exemplo de controle preventivo?,Firewall ativo,Revisão pós-ataque,Backup diário,Relatório mensal de TI,A
+O que a ISO/IEC 27001 recomenda sobre a documentação de riscos?,Apenas para grandes organizações,Mantê-la atualizada e acessível,Eliminá-la após auditorias,Delegá-la a terceiros,B
+Qual é o papel do treinamento em um SGSI?,Garantir backups,Aumentar a conscientização sobre segurança,Simplificar processos,Evitar vulnerabilidades técnicas,B
+Qual é o impacto de um SGSI mal implementado?,Aumento de competitividade,Maior exposição a riscos e falhas,Eliminação de custos de segurança,Simplificação de auditorias,B
+O que deve ser incluído em uma análise de riscos?,Somente ativos digitais,Todos os ativos e possíveis ameaças,Apenas vulnerabilidades críticas,Somente controles existentes,B
+Qual é a finalidade do Anexo A na ISO/IEC 27001?,Eliminar auditorias internas,Fornecer controles recomendados para segurança,Garantir backup automático,Simplificar operações,B
+Qual é o objetivo de uma política de segurança de senhas?,Simplificar acessos,Garantir senhas fortes e seguras,Eliminar senhas,Evitar acessos remotos,B
+O que é auditoria externa na ISO/IEC 27001?,Revisão de conformidade por partes independentes,Checagem interna de TI,Avaliação mensal da equipe,Processo automático,A
+Como a ISO 27001 trata o uso de criptografia?,Como opcional,Como um controle técnico fundamental,Como obrigação legal,Somente em servidores,B
+Qual é o propósito do controle de acesso físico?,Permitir acesso irrestrito,Prevenir acessos não autorizados,Reduzir custos operacionais,Melhorar desempenho da equipe,B
+O que deve conter no escopo do SGSI?,Apenas servidores críticos,Os limites e aplicabilidade do SGSI,Relatórios financeiros,Todos os dados da empresa,B
+Como os fornecedores devem ser gerenciados na ISO 27001?,Sem monitoramento,Avaliados quanto à segurança da informação,Com acessos irrestritos,Delegando responsabilidades,B
+O que a cláusula 6 aborda?,Segurança física,Planejamento do SGSI,Backup automático,Gestão de ativos,B
+O que representa a cláusula 8?,Operação do SGSI,Gestão de riscos,Auditoria externa,Implementação de ferramentas,A
+Qual é a importância de registros no SGSI?,Evidenciar conformidade e ações tomadas,Eliminá-los após auditorias,Facilitar backups,Garantir operações manuais,A
+Qual é a abordagem principal da ISO/IEC 27001?,Proativa e baseada em riscos,Reativa e emergencial,Automática por ferramentas,Somente auditorias externas,A
+Como tratar vulnerabilidades identificadas?,Ignorar se forem pequenas,Implementar ações corretivas,Transferir para terceiros,Delegar a auditorias externas,B
+Quais informações devem ser protegidas na ISO 27001?,Apenas dados financeiros,Todas as informações relevantes à organização,Somente relatórios anuais,Apenas informações públicas,B
+O que significa governança de TI?,Delegar responsabilidades de segurança,Gerir e estruturar processos e políticas de TI,Reduzir custos operacionais,Focar apenas em segurança física,B
+Qual é o papel de uma política de segurança de informação?,Evitar falhas de TI,Definir diretrizes e responsabilidades de segurança,Apenas monitorar redes,Garantir backups automáticos,B
+Como são classificados os ativos na ISO 27001?,Sigilosos, críticos e públicos,Conforme impacto e valor para a organização,Apenas pela criticidade,B
+O que são controles organizacionais?,Softwares de TI,Políticas e diretrizes implementadas,Firewalls e antivírus,Apenas backups,B
+Como a ISO 27001 define um incidente de segurança?,Algo que fortalece a segurança,Violação ou ameaça à política de segurança,Falha operacional,Evento irrelevante,B
+Qual é o papel da análise de impacto no SGSI?,Avaliar custos operacionais,Identificar consequências de riscos,Evitar auditorias externas,Facilitar uso de ferramentas,B
+Por que a documentação é essencial na ISO/IEC 27001?,Para cumprir exigências legais,Evidenciar conformidade e auditoria,Simplificar operações manuais,Evitar falhas técnicas,B
+Quais são os três pilares da segurança da informação?,Confidencialidade - integridade - disponibilidade,Conectividade - mobilidade - acessibilidade,Criptografia - antivírus - backups,Sigilo - rede - usuário,A
+Qual é a importância do ciclo PDCA na ISO/IEC 27001?,Implementar melhorias contínuas,Eliminar necessidade de auditorias,Simplificar relatórios,Evitar vulnerabilidades externas,A
+Como deve ser feita a avaliação de riscos?,Periodicamente e com base em métodos definidos,Apenas após incidentes,Automatizada por software,Sempre que exigido por auditoria,A
+Qual é a finalidade da ISO 27002?,Apoiar implementação dos controles da ISO 27001,Gerar relatórios financeiros,Reduzir custos operacionais,Facilitar backups,A
+Por que a ISO/IEC 27001 enfatiza a liderança?,Para supervisionar auditorias,Para garantir suporte e comprometimento no SGSI,Simplificar relatórios,Apenas definir orçamento,B
+Como garantir a eficácia de um SGSI?,Revisando o ciclo PDCA regularmente,Implementando software de segurança,Delegando responsabilidades externas,Simplificando operações,A
