@@ -85,6 +85,34 @@ def quiz(perguntas):
 
     print(f"{AZUL_CLARO}🌐 {AZUL}Quiz Interativo - {AZUL_CLARO}ISO/IEC 27001{RESET}\n")
 
+    try:
+        nome = input(f"{BRANCO}👤 Qual seu nome? {ROXO}").strip()
+    except KeyboardInterrupt:
+        print(f"\n{VERMELHO}⛔️ Execução interrompida.{RESET}")
+        sys.exit(0)
+
+    print(f"\n{VERDE}Olá, {ROXO}{nome}{VERDE}! Vamos começar o desafio!{RESET}")
+    try:
+        input(f"\n{AZUL}Pressione ENTER para iniciar...{RESET}")
+    except KeyboardInterrupt:
+        print(f"\n{VERMELHO}⛔️ Execução interrompida.{RESET}")
+        sys.exit(0)
+
+    acertos = 0
+    erros = 0
+
+    for i, (pergunta, opcoes, correta) in enumerate(perguntas, 1):
+        limpar()
+        print(f"{BRANCO}+{'=' * 71}+{RESET}")
+        print(banner)
+        print(f"{BRANCO}+{'=' * 71}+{RESET}\n")
+        print(f"{AZUL_CLARO}🌐 {AZUL}Quiz Interativo - {AZUL_CLARO}ISO/IEC 27001{RESET}\n")
+
+        print(f"{BRANCO}💬 PERGUNTA ( {AMARELO}{i}{BRANCO} / {AMARELO}{limite}{BRANCO} ) - ⌛️ Tempo {AMARELO}20s{RESET}\n")
+        print(f"{ROXO}📋 {pergunta}{RESET}\n")
+        for letra in ['A', 'B', 'C', 'D']:
+            print(f"{AMARELO}  {letra}){BRANCO} {opcoes[letra]}{RESET}\n")
+
         try:
             temporizador(20)
             resposta = input(f"{ROXO}📜 Resposta: {AMARELO}").strip().upper()
@@ -122,34 +150,3 @@ if __name__ == "__main__":
         quiz(perguntas)
     else:
         print(f"{VERMELHO}⚠️ Nenhuma pergunta válida foi carregada.{RESET}")
-
-
-
-    try:
-        nome = input(f"{BRANCO}👤 Qual seu nome? {ROXO}").strip()
-    except KeyboardInterrupt:
-        print(f"\n{VERMELHO}⛔️ Execução interrompida.{RESET}")
-        sys.exit(0)
-
-    print(f"\n{VERDE}Olá, {ROXO}{nome}{VERDE}! Vamos começar o desafio!{RESET}")
-    try:
-        input(f"\n{AZUL}Pressione ENTER para iniciar...{RESET}")
-    except KeyboardInterrupt:
-        print(f"\n{VERMELHO}⛔️ Execução interrompida.{RESET}")
-        sys.exit(0)
-
-    acertos = 0
-    erros = 0
-
-    for i, (pergunta, opcoes, correta) in enumerate(perguntas, 1):
-        limpar()
-        print(f"{BRANCO}+{'=' * 71}+{RESET}")
-        print(banner)
-        print(f"{BRANCO}+{'=' * 71}+{RESET}\n")
-        print(f"{AZUL_CLARO}🌐 {AZUL}Quiz Interativo - {AZUL_CLARO}ISO/IEC 27001{RESET}\n")
-
-        print(f"{BRANCO}💬 PERGUNTA ( {AMARELO}{i}{BRANCO} / {AMARELO}{limite}{BRANCO} ) - ⌛️ Tempo {AMARELO}20s{RESET}\n")
-        print(f"{ROXO}📋 {pergunta}{RESET}\n")
-        for letra in ['A', 'B', 'C', 'D']:
-            print(f"{AMARELO}  {letra}){BRANCO} {opcoes[letra]}{RESET}\n")
-
