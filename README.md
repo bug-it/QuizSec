@@ -22,7 +22,7 @@
 📂 Como Utilizar
 
 ```bash
-git clone https://github.com/seuprojeto/quizsec.git
+git clone https://github.com/bug-it/quizsec.git
 cd quizsec
 chmod +x quizsec.py
 sudo python3 quizsec.py
